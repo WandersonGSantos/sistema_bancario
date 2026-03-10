@@ -44,7 +44,7 @@
   "devDependencies": {
     "@nestjs/cli": "^11.0.0",
     "@nestjs/schematics": "^11.0.0",
-    "@nestjs/testing": "^10.4.15",
+    "@nestjs/testing": "^11.0.0",
     "@swc/cli": "^0.8.0",
     "@swc/core": "^1.9.3",
     "@types/express": "^5.0.0",
